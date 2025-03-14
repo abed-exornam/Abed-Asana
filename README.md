@@ -34,7 +34,7 @@ This is a **React Native** food ordering app that allows users to browse menu it
 ### 1 Clone the Repository
 ```sh
 git clone https://github.com/abed-exornam/Food App.git
-cd food-ordering-app
+cd Food App
 ```
 
 ### 2️ Install Dependencies
